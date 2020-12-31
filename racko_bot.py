@@ -7,7 +7,7 @@ from discord.utils import get
 from racko_functions import *
 from collections import deque
 #-------------CONSTANTS-----------------
-TOKEN = 'NzM3NzczMzE1MjQxOTM0ODc4.XyCO8Q.eZRHFqZZ8Px9me0O7z5vVm3z_DU'
+TOKEN = 'TOKEN_GOES_HERE'
 GAME_BOARD = 0
 GAME_INFO  = 1
 CARD_DRAW  = 2
